@@ -1,0 +1,26 @@
+#hej {
+    color: #9cc934;
+}
+#wevsite_heder{
+    color: #df0b0b;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.hss{
+    color: #1518d6;
+}
+#xx{
+    color: #ec0dcf;
+    background-color: #9cc934;
+    border-color: #df0b0b;
+    border: solid;
+    margin: 30px;
+
+}
+#Lorem{
+    color: rgb(255, 51, 0);
+    bottom: 350px;
+    border: #df0b0b;
+    border: solid 2px ;
+    width: 500px;
+
+}
