@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+}
+table{
+  padding: 34px;
+  width: 800px;
+  margin: 0;
+
+}
+
+table, th,td{
+    border: solid chartreuse;
+}
+
+
+thead{
+    background-color: blanchedalmond;
+}

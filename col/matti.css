@@ -1,0 +1,40 @@
+h1{
+    color: blue;
+    }
+
+
+    .matti{
+        color: blue;
+    }
+
+
+
+.form-container{
+    background-color: bisque;
+    padding: 40px;
+    border-radius: 0%;
+    box-shadow: rgba(164, 11, 211, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+
+}
+
+
+body{
+    height: 100%;
+    width: 100vw;
+}
+
+.form-container input [type= "text"]
+.form-container input[type= "email"]
+.form-container textarea {
+    width: 100%;
+    padding: auto;
+    border: 1px chartreuse;
+
+}
+
+button{
+    background-color: black;
+    color: aliceblue;
+    
+}
+
