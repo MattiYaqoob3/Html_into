@@ -9,4 +9,8 @@
     margin: 0;
     padding: 0;
     background-color: #c8ac1f;
+}   
+a{
+    text-decoration: none;
+    color: #333;
 }
